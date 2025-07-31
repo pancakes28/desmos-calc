@@ -1,4 +1,4 @@
-###All assets are owned by MrPancakes39
+##All assets are owned by MrPancakes39
 
 # Desmos | Offline Mode
 
