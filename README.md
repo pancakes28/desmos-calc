@@ -1,3 +1,5 @@
+###All assets are owned by MrPancakes39
+
 # Desmos | Offline Mode
 
 Desmos is a well known Graphing Calculator available for the web and mobile, but no desktop port exist.
