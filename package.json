@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrPancakes39/Desmos-Offline-Mode.git"
+    "url": "git+https://github.com/pancakes28/new-desmos-calc.git"
   },
   "keywords": [
     "desmos",
     "calculator"
   ],
-  "author": "Salman Hasan <salmannhassan39@gmail.com>",
+  "author": "MrPancakes39",
   "license": "GPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/MrPancakes39/Desmos-Offline-Mode/issues"
+    "url": "https://github.com/pancakes28/new-desmos-calc/issues"
   },
-  "homepage": "https://github.com/MrPancakes39/Desmos-Offline-Mode#readme",
+  "homepage": "https://github.com/pancakes28/new-desmos-calc",
   "devDependencies": {
     "electron": "^13.6.6",
     "electron-packager": "^15.4.0"
